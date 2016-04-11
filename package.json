@@ -1,0 +1,25 @@
+{
+  "name": "ulrp",
+  "version": "0.1.0",
+  "description": "Use Less RP, an URP Extension for XDU",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oopsno/ULRP.git"
+  },
+  "keywords": [
+    "XDU",
+    "URP"
+  ],
+  "author": "Yufei Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oopsno/ULRP/issues"
+  },
+  "homepage": "https://github.com/oopsno/ULRP#readme"
+}
